@@ -4,15 +4,15 @@
 ## Toptal Blog Post by Alan Reiner
 #### Use Tensorflow for More than Deep Learning
 ##### Author: Alan Reiner
-##### March 2020
+##### (NOT YET PUBLISHED - Expected April 2020)
 
 -----
 
-This repo contains the complete, fully-functional code for all the examples contained in my blog post:
+This repo contains the complete, fully-functional code for all the examples contained in my soon-to-be-published blog post:
 
 * [Use Tensorflow for More than Deep Learning (TBA)](...)
 
-The code snippets in the blog post are abridged, leaving out some of the messy implementation details such as learning optimizations and the code that produces the pretty visuals.  The notebooks in this repo were the original source of the text and visuals in the post, but functional, optimized and documented.
+The code snippets in the blog post are abridged, leaving out some of the messy implementation details such as learning optimizations and the code that produces the pretty visuals.  These are the source notebooks with full documentation, and should work out of the box if basic DS/ML packages are installed.
 
 -----
 
