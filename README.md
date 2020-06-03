@@ -1,18 +1,10 @@
+This code is published as part of Alan Reiner's [corresponding blog article](https://www.toptal.com/python/gradient-descent-in-tensorflow) at the Toptal Engineering Blog.
 
-![](toptal_logo_.jpeg) 
+Visit https://www.toptal.com/blog and subscribe to our newsletter to read great articles!
 
-## Toptal Blog Post by Alan Reiner
-#### Use Tensorflow for More than Deep Learning
-##### Author: Alan Reiner
-##### (NOT YET PUBLISHED - Expected April 2020)
-
------
-
-This repo contains the complete, fully-functional code for all the examples contained in my soon-to-be-published blog post:
-
-* [Use Tensorflow for More than Deep Learning (TBA)](...)
-
-The code snippets in the blog post are abridged, leaving out some of the messy implementation details such as learning optimizations and the code that produces the pretty visuals.  These are the source notebooks with full documentation, and should work out of the box if basic DS/ML packages are installed.
+* * *
+ 
+This repo contains the complete, fully-functional code for all the examples contained in the above article. The code snippets in the blog post are abridged, leaving out some of the messy implementation details such as learning optimizations and the code that produces the pretty visuals.  These are the source notebooks with full documentation, and should work out of the box if basic DS/ML packages are installed.
 
 -----
 
